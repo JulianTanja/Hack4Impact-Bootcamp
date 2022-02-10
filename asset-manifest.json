@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Hack4Impact-Bootcamp/static/css/main.14fe8e4e.css",
+    "main.js": "/Hack4Impact-Bootcamp/static/js/main.11ed1bbe.js",
+    "index.html": "/Hack4Impact-Bootcamp/index.html",
+    "main.14fe8e4e.css.map": "/Hack4Impact-Bootcamp/static/css/main.14fe8e4e.css.map",
+    "main.11ed1bbe.js.map": "/Hack4Impact-Bootcamp/static/js/main.11ed1bbe.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.14fe8e4e.css",
+    "static/js/main.11ed1bbe.js"
+  ]
+}
